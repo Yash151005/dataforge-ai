@@ -17,11 +17,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Demo Login
-- **Username:** `admin`
-- **Password:** `admin123`
-
----
 
 ## ✨ Features
 
